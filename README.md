@@ -1,4 +1,4 @@
-# Lab1 Starter Code
+# Lab6 Starter Code
 This repository contains the code template for Lab 6 Data Visualization developed for the course TIL6022 Python Programming at TU Delft in 2026. 
 
 ## Instructions for Students
